@@ -1,0 +1,5 @@
+[plugin]
+Version = 20221207
+File = zzpicon.tar.gz
+Url = https://github.com/fullkiller/picons/upload/main/picons/
+MD5 = 000000000000000000000000
